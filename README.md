@@ -6,8 +6,13 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Live;Learn;Code;Repeat" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
 </p>
 
-👋Greetings and thank you for visiting my GitHub! My name is Pamela V Leung, an experienced accountant by profession, currently venturing into the world of coding. I have become a strongly believe that GitHub surpass LinkedIn in showcasing one's true identity and passion with regards to coding. While I do have a LinkedIn profile, I'd be thrilled if you explore what I have to offer here instead. This platform hosts a wealth of invaluable resources, including those that have been instrumental in shaping my coding journey. I hope I can help provide some resources as you embark on your own coding adventure. Enjoy your time here.
-Cheers!<br>
+👋Greetings and thank you for visiting my GitHub! 
+
+👩‍💻 Embracing the Coding Journey! 🚀 As an accountant by trade, numbers have been my forte. 💼 But deep down, there's a burning passion for coding that can no longer be ignored! 🔥📚
+
+Join me on this exhilarating adventure as I dive headfirst into the world of programming 🌐📝. From crunching financial figures to crafting elegant lines of code, I'm here to level up my skills and transform my passion into a new realm of possibilities. 💯🔢
+
+Let's connect and learn from each other in this incredible community of tech enthusiasts! 🤝🌟 Whether you're a seasoned coder or a curious soul like me, let's inspire and support each other on this journey. 🌈🤗 t<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pamela.v.marriott) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pamela.v.leung/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pamela-v-leung/) 
