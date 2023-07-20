@@ -1,4 +1,3 @@
-# PamelaVLeung
 # 💫 About Me:
 😎 I am an accountant by trade with a passion for learning and coding.<br>📫 Shoot me an email or add me on Linkedin<br>
 
