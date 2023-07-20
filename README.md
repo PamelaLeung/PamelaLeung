@@ -1,4 +1,11 @@
-# 💫 About Me:
+
+<p align="center">
+    <a href="https://github.com/PamelaLeung"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Pamela+V+Leung" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page;I+Hope+You+Enjoy+Your+Time;See+You+Again+Soon" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
+</p>
+
 😎 I am an accountant by trade with a passion for learning and coding.<br>📫 Shoot me an email or add me on Linkedin<br>
 
 
